@@ -1,4 +1,4 @@
-**FilmDizi Tracker** is a personal desktop application designed to log, rate, and review the movies and TV series you've watched.
+**MovieNSeriesNSitcomTracker** is a personal desktop application designed to log, rate, and review the movies and TV series you've watched.
 
 This project marks a significant milestone in my development journey as my **first implementation of JSON** for local data persistence, combined with a **Tkinter** graphical user interface.
 
